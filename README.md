@@ -1,7 +1,7 @@
 # Hello World! 🌎
 ## I'm João Casemiro, or just Casemiro 😅
 
-Front-end student focused in ReactJs.
+Fullstack tudent focused in Javascript Stack.
 
 Currently working at Bradesco S/A as an intern 🏦.
 
