@@ -1,10 +1,20 @@
-# Hello World! 🌎
-## I'm João Casemiro, or just Casemiro 😅
+# Hello World! 🌎 meu nome é Casemiro
 
-Fullstack tudent focused in Javascript Stack.
-
-Currently working at Bradesco S/A as an intern 🏦.
+### 🎓Estudante de Análise e Desenvolvimento de Sistemas com formação para Jul/22
+### 🚀Atualmente me preparando para me tornar um Desenvolvedor Fullstack utilizando Javascript
+### 💼Experiência profissional como:
+   * Estagiário em Desenvolvimento Backend Java na BRQ Digital Solutions
+   * Estagiário em Governança de TI no Banco Bradesco
+### 💻 Técnologias que utilizo:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Javascript](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Javascript](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Javascript](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Javascript](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Javascript](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Contacts
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/casemiroj)](https://github.com/casemiroj)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovictorcasemiro/)](https://www.linkedin.com/in/joaovictorcasemiro/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorcasemiro/)
