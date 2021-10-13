@@ -1,7 +1,7 @@
 # Hello World! 🌎 meu nome é Casemiro
 
 ### 🎓Estudante de Análise e Desenvolvimento de Sistemas com formação para Jul/22
-### 🚀Atualmente me preparando para me tornar um Desenvolvedor Fullstack utilizando Javascript
+### 🚀Atualmente atuando como Desenvolvedor Fullstack utilizando Javascript
 ### 💼Experiência profissional como:
    * Estagiário em Desenvolvimento Backend Java na BRQ Digital Solutions
    * Estagiário em Governança de TI no Banco Bradesco
